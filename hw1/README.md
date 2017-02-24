@@ -59,9 +59,9 @@ into the data structures -- as such data structures are stored in RAM,
 your code will fail to work if the the size of the file exceeds the
 size of the available RAM.
 
-The UNIX utilities you might find useful include `sort`, `grep`,
-`sed`, `awk`, `head`, `tail`, `nl`, `tr`, `cut`, `paste`, `tee`, `od`,
-`split`, and `csplit`.
+The UNIX utilities you might find useful include `sort`, `uniq',
+`grep`, `sed`, `awk`, `head`, `tail`, `nl`, `tr`, `cut`, `paste`,
+`tee`, `od`, `split`, and `csplit`.
 
 ## Getting started
 
@@ -77,9 +77,10 @@ Unix time format
 3. `test_memory_usage.sh`: the shell script that tests whether your
 code works with a tigh limit on the RAM available to your program
 
-The archive file, `hw1_DATA_DIR.zip`, containing two datasets as well
-as the reference output for one of the datasets will be made available
-on lab machines.
+The archive file, `hw1_DATA.zip`, containing two datasets as well as
+the reference output for one of the datasets will be made available on
+lab machines; you can also download it from
+[here](http://www.cs.wits.ac.za/~dmitry/coms4037/static/hw1_DATA.zip).
 
 *Note*: Whether you are working on a lab machine or your personal
 computer, the dataset should reside in the `~/coms4037/hw1` directory;
