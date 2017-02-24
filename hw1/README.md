@@ -59,7 +59,7 @@ into the data structures -- as such data structures are stored in RAM,
 your code will fail to work if the the size of the file exceeds the
 size of the available RAM.
 
-The UNIX utilities you might find useful include `sort`, `uniq',
+The UNIX utilities you might find useful include `sort`, `uniq`,
 `grep`, `sed`, `awk`, `head`, `tail`, `nl`, `tr`, `cut`, `paste`,
 `tee`, `od`, `split`, and `csplit`.
 
