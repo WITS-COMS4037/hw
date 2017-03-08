@@ -219,8 +219,8 @@ Thus, `process_logs()` should produce 3 csv files:
 ## Testing
 
 The reference output for the smaller of the two datasets,
-`web_log_small.log,` included in `hw1_DATA_DIR.zip` can be found in
-`ref_output_small` directory contained in `hw1_DATA_DIR.zip`.  You can
+`web_log_small.log,` included in `hw1_DATA.zip` can be found in
+`ref_output_small` directory contained in `hw1_DATA.zip`.  You can
 make use of these files in two ways.
 
 First, you can take a look at them to make sure you understand the
