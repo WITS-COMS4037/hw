@@ -231,7 +231,7 @@ once you have done this assignmet.
 As part of the [data
 archive](http://www.cs.wits.ac.za/~dmitry/coms4037/static/hw2_DATA.zip),
 we have provided test data-sets, `part1test.db` and `part2test.db`, as
-well as expected output on this data-sets, for you to check your
+well as expected output on these data-sets, for you to check your
 work. Use the `test.sh` scripts to run the tests.  Each test assumes
 that the `csv` files with the expected output are stored in a
 particular location -- either check the scripts to see what those
